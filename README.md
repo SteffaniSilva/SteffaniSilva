@@ -18,31 +18,25 @@
 A responsive React and Vite web application that allows users to search property listings, view property details, use image galleries, and manage favourites.
 
 **Tech:** React, Vite, JavaScript, CSS, React Router, Jest, React Testing Library  
-**Live Demo:** Add your live demo link  
-**Repository:** Add your repository link
+**Live Demo:** https://opulenza-rust.vercel.app
+**Repository:** https://github.com/SteffaniSilva/OPULENZA
 
 ### 🏫 SmartCampusAPI – RESTful Campus Management API
 A Java REST API built with JAX-RS and Jersey to manage rooms, sensors, and sensor readings.
 
 **Tech:** Java, JAX-RS, Jersey, Maven, Apache Tomcat, Postman  
-**Repository:** Add your repository link
+**Repository:** https://github.com/SteffaniSilva/SmartCampusAPI
 
-### 🎟️ Event Booking Website
-A responsive event dashboard website for browsing events, viewing booking statistics, ticket sales, and attendee insights.
-
-**Tech:** HTML, CSS, JavaScript, Vercel  
-**Live Demo:** Add your live demo link  
-**Repository:** Add your repository link
 
 ### 🎮 Tic-Tac-Toe Game
 A two-player browser game with winner detection, draw detection, restart functionality, and responsive design.
 
 **Tech:** HTML, CSS, JavaScript  
-**Live Demo:** Add your live demo link  
-**Repository:** Add your repository link
+**Live Demo:** https://tic-tac-toe-game-kohl-two.vercel.app
+**Repository:** https://github.com/SteffaniSilva/Tic-Tac-Toe-Game
 
 ## 📫 Connect with Me
 
-- LinkedIn: Add your LinkedIn link
-- Portfolio: Add your portfolio link
-- Email: Add your email
+- LinkedIn: linkedin.com/in/steffani-silva-
+- Portfolio: https://portfolio-4pny.vercel.app/
+- Email: silvasteffani2004@gmail.com
